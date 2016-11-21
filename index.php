@@ -16,5 +16,7 @@ $seflink = new BasicSefLink();
 $TurkVeri = "GitLabda Oluşturduğumuz Projeye Bilgisayarımızdan Dosya Yüklemek";
 echo $seflink->basicselflink($TurkVeri);
 
+// örnek çıktı
+// gitlabda-olusturdugumuz-projeye-bilgisayarimizdan-dosya-yuklemek
 
  ?>
