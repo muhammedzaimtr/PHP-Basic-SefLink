@@ -1,7 +1,14 @@
 <?php
 
+/**
+ * Created by Muhammed ZAİM
+ * mail: info@muhammedzaim.com
+ * web: muhammedzaim.com
+ * github: @muhammedzaimtr
+ * twitter: @muhammedzaimtr
+ */
 
-include "class.BasicSefLink.php";
+include "class.basicseflink.php";
 
 $seflink = new BasicSefLink();
 
